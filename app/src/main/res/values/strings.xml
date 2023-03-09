@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name" translatable="false">ArtSpace</string>
+
+    <string name="barca">FUTBOL CLUB BARCELONA</string>
+    <string name="barca_year">Descubre 4 leyendas del Fútbol Club Barcelona y sus trofeos ganados</string>
+    <string name="messi">LIONEL MESSI</string>
+    <string name="trofeos_messi">El mejor de la historia del Barça. El hombre que ha roto todos los
+        récords y que no parece que vaya a frenarse.
+    En total, Lionel Messi ha ganado 35 títulos con el Barcelona</string>
+    <string name="xavi">XAVI HERNANDEZ</string>
+    <string name="trofeos_xavi">El mejor centrocampista de la historia del club. Siempre con el partido
+        en la cabeza. Un mito de tamaño gigantesco que fue la batuta del mejor equipo de la historia.
+    Xavi Hernández ganó 28 títulos con el Barcelona y la Selección Española de Fútbol</string>
+    <string name="puyol">CARLES PUYOL</string>
+    <string name="trofeos_puyol">El carácter en la defensa. Comprometido al 200 por cien con el club.
+        El líder del mejor equipo de la historia y sacrificado al máximo. El escudo del Barça es él.
+    Carles Puyol ganó un total de 21 trofeos con el FC Barcelona durante su carrera como futbolista en el club.</string>
+    <string name="cruyff">JOHAN CRUYFF</string>
+    <string name="trofeos_cruyff">Otro que cambió el fútbol desde la inteligencia y la elegancia.
+        Podía jugar en todos los puestos de la delantera. Un líder nato que cambió la historia del
+        Barça como entrenador. Johan Cruyff ganó 18 títulos durante su carrera</string>
+</resources>
